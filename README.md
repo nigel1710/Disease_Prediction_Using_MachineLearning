@@ -1,0 +1,2 @@
+# Disease_Prediction_Using_MachineLearning
+A system that utilizes machine learning techniques to automate the process of disease identification based on symptoms. The system should be capable of analyzing a patients reported symptoms and accurately predicting the most probable disease or a set of likely diseases. This would significantly assist healthcare professionals in making informed decisions, improving the accuracy and efficiency of the disease diagnosis. 
